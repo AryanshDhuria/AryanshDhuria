@@ -12,8 +12,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryansh-dhuria-9b574920a/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AryanshDhuria)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Aspiring+Data+Analyst+%F0%9F%93%8A;SQL+%7C+Python+%7C+Power+BI+%7C+Excel;Transforming+Data+into+Decisions;Always+Learning+%7C+Always+Growing+%F0%9F%9A%80" alt="Typing SVG" />
-
 </div>
 
 ---
@@ -22,13 +20,12 @@
 
 ```python
 aryansh = {
-    "name"        : "Aryansh Dhuria",
-    "role"        : "Aspiring Data Analyst",
-    "passion"     : "Turning messy data into clean, actionable insights",
-    "tech_stack"  : ["SQL", "Python", "Power BI", "Excel", "Git"],
-    "currently"   : "Building real-world data projects to showcase skills",
-    "open_to"     : ["Data Analyst Internships", "Fresher DA Roles", "Collaborations"],
-    "motto"       : "In God we trust; all others must bring data 📊"
+    "name"     : "Aryansh Dhuria",
+    "role"     : "Aspiring Data Analyst",
+    "passion"  : "Turning messy data into clean, actionable insights",
+    "stack"    : ["SQL", "Python", "Power BI", "Excel", "Git"],
+    "open_to"  : ["Internships", "Fresher DA Roles", "Collaborations"],
+    "motto"    : "In God we trust; all others must bring data 📊"
 }
 ```
 
@@ -87,9 +84,15 @@ aryansh = {
 
 <div align="center">
 
-![Aryansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AryanshDhuria&show_icons=true&theme=tokyonight&hide_border=true)
+| Metric | Value |
+|--------|-------|
+| 🗂️ Public Repositories | 6 |
+| ⭐ Stars Earned | 1 |
+| 📅 Member Since | Oct 2020 |
+| 🔥 Contributions | 116+ |
+| 🌐 Top Language | SQL |
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AryanshDhuria&layout=compact&theme=tokyonight&hide_border=true)
+> 📈 *Actively pushing new projects — stats growing every week!*
 
 </div>
 
