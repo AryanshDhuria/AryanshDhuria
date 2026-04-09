@@ -1,13 +1,16 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hey%2C%20I'm%20Aryansh%20Dhuria%20👋&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=SQL%20%26%20Data%20Enthusiast%20|%20Turning%20Raw%20Data%20into%20Business%20Insights&descAlignY=58&descSize=17" />
+<!-- Animated Header Banner - FIXED -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hey%2C+I'm+Aryansh+Dhuria+%F0%9F%91%8B&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=SQL+%26+Data+Enthusiast+%7C+Turning+Raw+Data+into+Business+Insights&descAlignY=58&descSize=17" />
 
+<!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Aspiring+Data+Analyst+%F0%9F%93%8A;SQL+%7C+Python+%7C+Power+BI+%7C+Excel;Transforming+Data+into+Decisions;Always+Learning+%7C+Always+Growing+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
+<!-- Badges -->
 ![Profile Views](https://komarev.com/ghpvc/?username=AryanshDhuria&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryansh-dhuria-9b574920a/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AryanshDhuria)
@@ -81,14 +84,15 @@ aryansh = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AryanshDhuria&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanshDhuria&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AryanshDhuria&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanshDhuria&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AryanshDhuria&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=AryanshDhuria&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -99,7 +103,7 @@ aryansh = {
 - 🐍 **Python for Data Analysis** — *In Progress*
 - 🗄️ **SQL for Data Science** — *Coursera / HackerRank*
 - 📊 **Power BI for Business Intelligence** — *Udemy*
-- 📈 **Google Data Analytics Certificate** — *Target: Q2 2025*
+- 📈 **Google Data Analytics Certificate** — *Target: 2025*
 
 ---
 
@@ -107,7 +111,7 @@ aryansh = {
 
 <div align="center">
 
-*I'm actively looking for **Data Analyst internship/fresher opportunities**.*
+*I'm actively looking for **Data Analyst internship/fresher opportunities**.*  
 *Feel free to reach out — let's talk data!*
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryansh-dhuria-9b574920a/)
@@ -119,8 +123,8 @@ aryansh = {
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
 
-*⭐ If you find my work useful, consider starring my repos — it means a lot!*
+⭐ *If you find my work useful, consider starring my repos — it means a lot!*
 
 </div>
