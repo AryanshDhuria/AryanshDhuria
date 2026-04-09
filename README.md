@@ -18,16 +18,19 @@
 
 ## 🧑‍💻 About Me
 
-```python
-aryansh = {
-    "name"     : "Aryansh Dhuria",
-    "role"     : "Aspiring Data Analyst",
-    "passion"  : "Turning messy data into clean, actionable insights",
-    "stack"    : ["SQL", "Python", "Power BI", "Excel", "Git"],
-    "open_to"  : ["Internships", "Fresher DA Roles", "Collaborations"],
-    "motto"    : "In God we trust; all others must bring data 📊"
-}
-```
+🙋 **Name:** Aryansh Dhuria
+
+🎯 **Role:** Aspiring Data Analyst
+
+💡 **Passion:** Turning messy data into clean, actionable insights
+
+🛠️ **Tech Stack:** SQL • Python • Power BI • Excel • Git
+
+🚀 **Currently:** Building real-world data projects to showcase skills
+
+🤝 **Open To:** Data Analyst Internships • Fresher DA Roles • Collaborations
+
+📊 **Motto:** *"In God we trust; all others must bring data"*
 
 ---
 
